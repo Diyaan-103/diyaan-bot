@@ -1,3 +1,4 @@
+print("Starting Diyaan Bot...")
 import gradio as gr
 from transformers import AutoModelForCausalLM, AutoTokenizer
 from duckduckgo_search import DDGS
